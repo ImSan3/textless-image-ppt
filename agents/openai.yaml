@@ -1,4 +1,4 @@
 interface:
   display_name: "无字底图可编辑PPT"
-  short_description: "按照指定风格生成无字底图，再叠加可编辑文字并导出高清预览"
+  short_description: "按指定风格制作底图和可编辑文字，并支持清晰重建界面截图"
   default_prompt: "使用 $textless-image-ppt，根据我给出的内容和画风制作可编辑文字的 PPTX。"
